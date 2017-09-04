@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1504531005
+#1504555539
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -85,13 +85,6 @@ images/sprite14-sheet0.png
 images/sprite15-sheet0.png
 images/sprite16-sheet0.png
 images/sprite17-sheet0.png
-images/sprite18-sheet0.png
-images/sprite19-sheet0.png
-images/sprite20-sheet0.png
-images/sprite21-sheet0.png
-images/sprite22-sheet0.png
-images/sprite23-sheet0.png
-images/sprite25-sheet0.png
 media/174615_yottasounds_pig002%20(online-audio-converter.com)%20(1).m4a
 media/174615_yottasounds_pig002%20(online-audio-converter.com)%20(1).ogg
 media/316920_rudmer-rotteveel_chicken-single-alarm-call%20(online-audio-converter.com).m4a
@@ -108,11 +101,6 @@ media/58277__benboncan__cow.m4a
 media/58277__benboncan__cow.ogg
 media/242664__reitanna__quack.m4a
 media/242664__reitanna__quack.ogg
-media/51743__erkanozan__applause.m4a
-media/277020__sandermotions__applause-3.m4a
-media/277020__sandermotions__applause-3.ogg
-media/51743_erkanozan_applause%20(online-audio-converter.com).m4a
-media/51743_erkanozan_applause%20(online-audio-converter.com).ogg
 icon-16.png
 icon-32.png
 icon-114.png
