@@ -1,9 +1,9 @@
 ﻿{
-	"name": "fonokids",
-	"short_name": "fonokids",
+	"name": "FonoKids",
+	"short_name": "FonoKids",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "landscape",
+	"orientation": "portrait",
 	"icons": [{
 		"src": "icon-16.png",
 		"sizes": "16x16",
