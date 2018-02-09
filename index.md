@@ -13,11 +13,15 @@ Sou um estudande de Programação de Jogos Digitais do IFRN.
 
 ## GAMES
 
-#### [Jogo 1 Oficina](Jordanag.github.io/FonoKids2/)
+#### [![FonoKids](20180206_230743.png)](Jordanag.github.io/FonoKids2/)
+
+![FonoKids](20180206_230743.png)
 
 
 ## Artes
 ![Game](https://www.google.com.br/search?q=game+tumblr&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjj8eGO8ZjZAhWGC5AKHQ3GDo4Q_AUICigB&biw=1920&bih=974#imgrc=dliB2jPAu49-zM:)
+
+![EU](IMG-20180130-WA0610.jpg)
 
 
 ## Apresentações
