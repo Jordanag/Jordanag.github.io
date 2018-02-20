@@ -1,18 +1,19 @@
---
+  
+  ##### [](#header-5)SOBRE
+  
 
----
-  **_SOBRE_**
-![](EU.jpg)
+![](eu1.png)
 
-**Jordana Silveira**
+**_Jordana Silveira_**
    
 Jordana Siveira Gomes, sou uma pobre estudante (rs), moro em João cãmara,RN.
    
 Criei este site para compartilhar os meus projetos realizados durante o ano letivo de 2017 para a disciplina de Oficina de Criação. Tenho objetivos futuros em relação a este site que é de compartilhar também sobre minhas experiências dentro do IFRN e curiosidades e diversas outras coisas sobre o meu curso e aréa de Jogos Diitais.
 
 
-**Formação acadêmica**
+   **Formação acadêmica**
 
+![](IFRN4.png)
 
 * Curso técnico em Programação de Jogos Digitais, pelo IFRN, campus Ceará-Mirim,RN. (Cursando)
 
@@ -20,7 +21,9 @@ Criei este site para compartilhar os meus projetos realizados durante o ano leti
 
 **Contato**
 
+e-mail: jordanagomes51@gmail.com
 
+(Instagram - @_jordanasg)   [https://www.instagram.com/]
 
 #Portfolio
 
