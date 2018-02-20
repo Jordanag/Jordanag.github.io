@@ -15,6 +15,8 @@ Criei este blog para compartilhar os meus projetos realizados durante o ano leti
 
 * Curso técnico em Programação de Jogos Digitais, pelo IFRN, campus Ceará-Mirim. (Cursando)
 
+![](euu.jpg)
+
 **Contato**
 
 
