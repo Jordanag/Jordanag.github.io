@@ -1,5 +1,5 @@
   
-  ##### [](#header-5)SOBRE
+  ## [](#header-5)SOBRE
   
 
 ![](eu1.png)
@@ -17,7 +17,6 @@ Criei este site para compartilhar os meus projetos realizados durante o ano leti
 
 * Curso técnico em Programação de Jogos Digitais, pelo IFRN, campus Ceará-Mirim,RN. (Cursando)
 
-![](euu.jpg)
 
 **Contato**
 
