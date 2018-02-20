@@ -1,12 +1,21 @@
 --
 layout: default
 ---
+   ### **_SOBRE_**
+![](EU.jpg)
 
-Criando minha **página**, principal.
+**Jordana Silveira**
+   
+Jordana Siveira Gomes, sou uma pobre estudante (rs), moro em João cãmara,RN.
+   
+Criei este blog para compartilhar os meus projetos realizados durante o ano letivo de 2017 para a disciplina de Oficina de Criação.  
 
-# Quem sou eu?
 
-Sou um estudande de Programação de Jogos Digitais do IFRN.
+**Formação acadêmica**
+
+* Curso técnico em Programação de Jogos Digitais, pelo IFRN, campus Ceará-Mirim. (Cursando)
+
+**Contato**
 
 
 #Portfolio
@@ -35,7 +44,7 @@ Sou um estudande de Programação de Jogos Digitais do IFRN.
 
 ## Projetos
 
-* * *
+* *
 
 ** negrito
 
