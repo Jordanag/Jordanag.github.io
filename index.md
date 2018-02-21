@@ -76,6 +76,10 @@ _Objetivo do jogo_
 
 
 
+![](tam5.jpg)
+
+
+
 
 
 
