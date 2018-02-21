@@ -24,8 +24,12 @@ e-mail: jordanagomes51@gmail.com
 
 Instagram - @_jordanasg
 
+## [](Portfolio)Portfolio
+
+
 
 # [](Projetos)Projetos
+
 
 * **Permita-se**
 
@@ -55,6 +59,7 @@ _Objetivo do jogo_
 
 
 # [](Jogos)Jogos
+
 
 ![](game.png)
 
