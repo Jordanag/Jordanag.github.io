@@ -63,7 +63,6 @@ _Objetivo do jogo_
 >
 > FonoKids:
 > #### [![FonoKids](telafk.png)](Jordanag.github.io/FonoKids2/)
->
 > Que País é esse 
 
 
