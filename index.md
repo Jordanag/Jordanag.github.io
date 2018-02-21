@@ -1,6 +1,6 @@
-  #### Portfolio
+  ### Portfolio
      
-  ### SOBRE
+  #### SOBRE
   
 
 ![](eu1.png)
@@ -27,7 +27,7 @@ Instagram - @_jordanasg
 
 
 
-### Projetos
+#### Projetos
 
 * **Permita-se**
 
@@ -56,7 +56,7 @@ Este jogo foi apresentado como quesito para atingir a nota do 3° bimestre da di
 _Objetivo do jogo_
 
 
-### Jogos
+##### Jogos
 
 > Permita-se:
 >
