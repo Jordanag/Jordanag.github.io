@@ -13,6 +13,8 @@ Criei este site para compartilhar os meus projetos realizados durante o ano leti
 
 **Formação acadêmica**
 
+***
+
 ![](IFRN4.png)
 
 * Curso técnico em Programação de Jogos Digitais, pelo IFRN, campus Ceará-Mirim,RN. (Cursando)
@@ -20,11 +22,13 @@ Criei este site para compartilhar os meus projetos realizados durante o ano leti
 
 **Contato**
 
+***
+
 e-mail: jordanagomes51@gmail.com
 
 Instagram - @_jordanasg
 
-## [](Portfolio)Portfolio
+## [](Portfolio:)Portfolio:
 
 
 
@@ -65,7 +69,6 @@ _Objetivo do jogo_
 
 
 > Permita-se:
->
 >
 > FonoKids:
 > #### [![FonoKids](telafk.png)](Jordanag.github.io/FonoKids2/)
