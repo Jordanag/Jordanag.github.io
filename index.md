@@ -1,5 +1,6 @@
-  
-  ## [](#header-5)SOBRE
+  #### Portfolio
+     
+  ### SOBRE
   
 
 ![](eu1.png)
@@ -11,7 +12,7 @@ Jordana Siveira Gomes, sou uma pobre estudante (rs), moro em João cãmara,RN.
 Criei este site para compartilhar os meus projetos realizados durante o ano letivo de 2017 para a disciplina de Oficina de Criação. Tenho objetivos futuros em relação a este site que é de compartilhar também sobre minhas experiências dentro do IFRN e curiosidades e diversas outras coisas sobre o meu curso e aréa de Jogos Diitais.
 
 
-   **Formação acadêmica**
+**Formação acadêmica**
 
 ![](IFRN4.png)
 
@@ -22,46 +23,53 @@ Criei este site para compartilhar os meus projetos realizados durante o ano leti
 
 e-mail: jordanagomes51@gmail.com
 
-(Instagram - @_jordanasg)   [https://www.instagram.com/]
-
-#Portfolio
-
-## Projetos
-
-#### [![FonoKids](20180206_230743.png)](Jordanag.github.io/FonoKids2/)
-
-![FonoKids](20180206_230743.png)
+Instagram - @_jordanasg
 
 
-## Artes
-![Game](https://www.google.com.br/search?q=game+tumblr&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjj8eGO8ZjZAhWGC5AKHQ3GDo4Q_AUICigB&biw=1920&bih=974#imgrc=dliB2jPAu49-zM:)
 
-![EU](IMG-20180130-WA0610.jpg)
+### Projetos
+
+* **Permita-se**
+
+O jogo Permita-se foi apresentado como requisito para a obtenção de nota do 1° bimestre da disciplina de Oficina de criação, componente curricular do curso técnico de Programação de Jogos Digitais, pelo IFRN, campus Ceará-Mirim.
+
+_Objetivo do jogo_
+
+Fazer com que os jogadores se permita conhecer outras culturas, costumes etc.
 
 
-## Apresentações
-* Aula de Multimidia
-* Aula de Motores
-* Aula de Game Design
+*  **FonoKids**
 
-1. Durval
-2. Marcelo
-3. Thiago
+![](fk.jpg)
 
-## Projetos
+Protótipo do jogo Fono Kids apresentado como requisito parcial para a obtenção de nota do 2° bimestre da disciplina de Oficina de criação, componente curricular do curso técnico de Programação de Jogos Digitais, pelo IFRN, campus Ceará-Mirim.
 
-* *
+_Objetivo do Jogo_
 
-** negrito
+Cooperar para o processo terapêutico da reabilitação auditiva do paciente de uma forma mais dinâmica, expondo a importância dessa ferramenta no ambiente de trabalho do fonoaudiólogo através de um protótipo de jogo “Fono Kids”.
 
-_ italico
+*  **Que país é esse?**
 
-~~ riscado
+Este jogo foi apresentado como quesito para atingir a nota do 3° bimestre da disciplina de Oficina de criação.
 
-   dois espaço p/ pular linha
- 3* adciona uma linha horizontal
- #s uma ou mais hashtag criam capitulos ou sub capitulos
- *s asteriscos adciona uma lista não numerada
- 1s numeros adcionam uma lista numerada
- 
- * * *
+
+_Objetivo do jogo_
+
+
+### Jogos
+
+> Permita-se:
+>
+>
+> FonoKids:
+> #### [![FonoKids](telafk.png)](Jordanag.github.io/FonoKids2/)
+>
+> Que País é esse 
+
+
+
+
+
+
+
+
