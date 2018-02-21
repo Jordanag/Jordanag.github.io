@@ -28,8 +28,9 @@ e-mail: jordanagomes51@gmail.com
 
 Instagram - @_jordanasg
 
-## [](Portfolio:)Portfolio:
 
+## [](Portfolio:)Portfolio:
+![](port.jpg)
 
 
 # [](Projetos)Projetos
@@ -65,18 +66,17 @@ _Objetivo do jogo_
 # [](Jogos)Jogos
 
 
-![](game.png)
-
-
 > Permita-se:
->
+>[https://zevictor.github.io/Permita-se/](Permita-se Game).
 > FonoKids:
-> #### [![FonoKids](telafk.png)](Jordanag.github.io/FonoKids2/)
+>[Jordanag.github.io/FonoKids2/](FonoKids Game).
 > Que País é esse 
+>[https://cavalcantebya.github.io/quepaiseesse/](QuePaiEssse Game).
 
 
 
-![](tam5.jpg)
+
+
 
 
 
