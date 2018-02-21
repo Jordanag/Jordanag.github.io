@@ -25,7 +25,7 @@ e-mail: jordanagomes51@gmail.com
 Instagram - @_jordanasg
 
 
-# [](#header-1)Projetos
+# [](Projetos)Projetos
 
 * **Permita-se**
 
@@ -54,7 +54,7 @@ Este jogo foi apresentado como quesito para atingir a nota do 3° bimestre da di
 _Objetivo do jogo_
 
 
-# [](#header-1)Jogos
+# [](Jogos)Jogos
 
 ![](game.png)
 
