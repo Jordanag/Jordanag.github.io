@@ -26,7 +26,7 @@ Criei este site para compartilhar os meus projetos realizados durante o ano leti
 
 e-mail: jordanagomes51@gmail.com
 
-Instagram - @_jordanasg
+Instagram: @_jordanasg
 
 
 ## [](Portfolio:)Portfolio:
@@ -37,6 +37,8 @@ Instagram - @_jordanasg
 
 
 * **Permita-se**
+
+![](ps.png)
 
 O jogo Permita-se foi apresentado como requisito para a obtenção de nota do 1° bimestre da disciplina de Oficina de criação, componente curricular do curso técnico de Programação de Jogos Digitais, pelo IFRN, campus Ceará-Mirim.
 
@@ -57,6 +59,8 @@ Cooperar para o processo terapêutico da reabilitação auditiva do paciente de 
 
 *  **Que país é esse?**
 
+![](qp10.png)
+
 Este jogo foi apresentado como quesito para atingir a nota do 3° bimestre da disciplina de Oficina de criação.
 
 
@@ -68,6 +72,7 @@ _Objetivo do jogo_
 
 > Permita-se:
 >[https://zevictor.github.io/Permita-se/](Permita-se Game).
+>
 > FonoKids:
 >[Jordanag.github.io/FonoKids2/](FonoKids Game).
 > Que País é esse 
