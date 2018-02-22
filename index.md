@@ -33,7 +33,7 @@ Instagram: @_jordanasg
 ![](port.jpg)
 
 
-# [](Projetos)Projetos
+# [](PROJETOS)PROJETOS
 
 
 * **Permita-se**
@@ -67,7 +67,7 @@ Este jogo foi apresentado como quesito para atingir a nota do 3° bimestre da di
 _Objetivo do jogo_
 
 
-# [](Jogos)Jogos
+# [](JOGOS)JOGOS
 
 
 > Permita-se:
@@ -75,6 +75,7 @@ _Objetivo do jogo_
 >
 > FonoKids:
 >[Jordanag.github.io/FonoKids2/](FonoKids Game).
+>
 > Que País é esse 
 >[https://cavalcantebya.github.io/quepaiseesse/](QuePaiEssse Game).
 
