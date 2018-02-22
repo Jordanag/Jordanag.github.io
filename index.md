@@ -30,6 +30,11 @@ Instagram: @_jordanasg
 
 
 
+
+
+
+
+
 ## [](Portfolio:)Portfolio:
 
 
@@ -79,6 +84,12 @@ _Objetivo do jogo_
 > Que País é esse 
 >[https://cavalcantebya.github.io/quepaiseesse/](QuePaiEssse Game).
 
+
+
+
+# [](ARTES)ARTES
+
+![](QPA.png)
 
 
 
