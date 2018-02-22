@@ -29,8 +29,8 @@ e-mail: jordanagomes51@gmail.com
 Instagram: @_jordanasg
 
 
+
 ## [](Portfolio:)Portfolio:
-![](port.jpg)
 
 
 # [](PROJETOS)PROJETOS
