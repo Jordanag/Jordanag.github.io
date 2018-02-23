@@ -99,7 +99,7 @@ _Tema do jogo:_ Livre
 
 # [](ARTES)ARTES
 
-![](qp1.png)
+![](qp2.png)
 
 ![](artfk1.png)
 
