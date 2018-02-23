@@ -2,7 +2,7 @@
 
 # [](SOBRE)SOBRE
 
-![](eu1.png)
+![](myphot.png)
 
 **_Jordana Silveira_**
    
@@ -66,6 +66,7 @@ Este jogo foi apresentado como quesito para atingir a nota do 3° bimestre da di
 
 _Objetivo do jogo_
 
+O jogo tem como objetivo fazer com que os jovens, através dos jogos digitais, se interessem pelo assunto e possam fazer a diferença no país.
 
 # [](JOGOS)JOGOS
 
