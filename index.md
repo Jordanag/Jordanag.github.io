@@ -86,6 +86,8 @@ _Objetivo do jogo_
 
 ![](QPA.png)
 
+![](artfk1.png)
+
 
 
 
