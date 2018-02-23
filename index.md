@@ -10,6 +10,8 @@ Jordana Siveira Gomes, sou uma pobre estudante (rs), moro em João cãmara,RN.
    
 Criei este site para compartilhar os meus projetos realizados durante o ano letivo de 2017 para a disciplina de Oficina de Criação. Tenho objetivos futuros em relação a este site que é de compartilhar também sobre minhas experiências dentro do IFRN e curiosidades e diversas outras coisas sobre o meu curso e aréa de Jogos Diitais.
 
+Seja bem-vindo!
+
 
 # **Formação acadêmica**
 
