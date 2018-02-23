@@ -46,6 +46,8 @@ _Objetivo do jogo_
 
 Fazer com que os jogadores se permita conhecer outras culturas, costumes etc.
 
+_Tema do jogo:_  Cultura
+
 
 *  **FonoKids**
 
@@ -57,6 +59,8 @@ _Objetivo do Jogo_
 
 Cooperar para o processo terapêutico da reabilitação auditiva do paciente de uma forma mais dinâmica, expondo a importância dessa ferramenta no ambiente de trabalho do fonoaudiólogo através de um protótipo de jogo “Fono Kids”.
 
+_Tema do jogo:_  Mensagem
+
 *  **Que país é esse?**
 
 ![](qp10.png)
@@ -67,6 +71,16 @@ Este jogo foi apresentado como quesito para atingir a nota do 3° bimestre da di
 _Objetivo do jogo_
 
 O jogo tem como objetivo fazer com que os jovens, através dos jogos digitais, se interessem pelo assunto e possam fazer a diferença no país.
+
+_Tema do jogo:_ Livre
+
+# [](Projeto Integrador)Projeto Integrador
+
+   O jogo-tower defense está ligado ao combate contra a Dengue e tem o objetivo de não permitir que os mosquitos cheguem na torre final e para isso,  durante cada fase, novas armadilhas são dadas para que você consiga cumprir a meta de cada nível, meta essa que foi dita anteriormente. As armadilhas são: inseticida, uma raquete e um veneno. A ideia é mostrar as crianças o perigo que esse mosquito pode causar e como podemos evita-lo. 
+   
+ ![](td.png)
+   
+   
 
 # [](JOGOS)JOGOS
 
@@ -88,6 +102,10 @@ O jogo tem como objetivo fazer com que os jovens, através dos jogos digitais, s
 ![](QPA.png)
 
 ![](artfk1.png)
+
+![](mp.png)
+
+
 
 
 
