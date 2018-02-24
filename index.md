@@ -112,11 +112,12 @@ _Tema do jogo:_ Livre
 * Mapa de influencia, trabalho proposto pelo Professor Marcelo com intuito de expor as nossas "influencias".
    
    
-# [](APRESENTAÇÕES)APRESENTAÇÕES
+# [](PARTICIPAÇÕES EM EVENTOS)PARTICIPAÇÕES EM EVENTOS
    
   * Epo games(2016), UFRN-IMD, evento voltado ao estudo do desenvolvimento e do uso de jogos digitais e mídia digital interativa.
    
   * III Encontro de Informática do Agreste Potiguar(2018), IFRN Nova Cruz, Apresentação do prototipo de jogo do FonoKids.
+  
      
    
    
