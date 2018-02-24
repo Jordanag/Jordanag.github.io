@@ -130,8 +130,8 @@ _Tema do jogo:_ Livre
    * E, a você que tirou um tempinho para visitar este site. Espero que tenha gostado.
    
    
-      
-   
+         
+      **Para sua meditação**
    "Seja forte e corajoso!"
    Josué 1:9
    
