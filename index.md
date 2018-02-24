@@ -8,7 +8,7 @@
    
 Jordana Siveira Gomes, sou uma pobre estudante (rs), moro em João cãmara,RN.
    
-Criei este site para compartilhar os meus projetos realizados durante o ano letivo de 2017 para a disciplina de Oficina de Criação do professor Marcelo Barros. Tenho objetivos futuros em relação a este site que é de compartilhar também sobre minhas experiências dentro do IFRN e curiosidades e diversas outras coisas sobre o meu curso e aréa de Jogos Diitais.
+Criei este site para compartilhar os meus projetos realizados durante o ano letivo de 2017 para a disciplina de Oficina de Criação do professor Marcelo Barros. Tenho objetivos futuros em relação a este site que é de compartilhar também sobre minhas experiências dentro do IFRN e curiosidades e diversas outras coisas sobre o meu curso e a aréa de Jogos Diitais.
 
 Seja bem-vindo!
 
@@ -113,10 +113,27 @@ _Tema do jogo:_ Livre
    
 # [](APRESENTAÇÕES)APRESENTAÇÕES
    
-   * Epo games(2016), UFRN-IMD, evento voltado ao estudo do desenvolvimento e do uso de jogos digitais e mídia digital interativa.
+  * Epo games(2016), UFRN-IMD, evento voltado ao estudo do desenvolvimento e do uso de jogos digitais e mídia digital interativa.
    
-   * III Encontro de Informática do Agreste Potiguar(2018), IFRN Nova Cruz, Apresentação do prototipo de jogo do FonoKids.
+  * III Encontro de Informática do Agreste Potiguar(2018), IFRN Nova Cruz, Apresentação do prototipo de jogo do FonoKids.
+     
    
+   
+     
+    
+   # [](Agradecimentos)Agradecimentos
+   
+   * Ao Professor Marcelo Barros pelas suas orientações, ensinamentos e brincadeiras durante esses anos que tem passado conosco.
+   
+   * Ao Instituto IFRN pela oportunidade de fazer o curso.
+   
+   * E, a você que tirou um tempinho para visitar este site. Espero que tenha gostado.
+   
+   
+      
+   
+   "Seja forte e corajoso!"
+   Josué 1:9
    
    
    
