@@ -36,8 +36,8 @@ Instagram: @_jordanasg
    
    
 # [](PROJETOS)PROJETOS
-
-
+   
+   
 * **Permita-se**
 
 ![](ps.png)
@@ -81,7 +81,7 @@ _Tema do jogo:_ Livre
    O jogo-tower defense está ligado ao combate contra a Dengue e tem o objetivo de não permitir que os mosquitos cheguem na torre final e para isso,  durante cada fase, novas armadilhas são dadas para que você consiga cumprir a meta de cada nível, meta essa que foi dita anteriormente. As armadilhas são: inseticida, uma raquete e um veneno. A ideia é mostrar as crianças o perigo que esse mosquito pode causar e como podemos evita-lo. 
    
  ![](td.png)
-   
+      
    
 
 # [](JOGOS)JOGOS
@@ -95,17 +95,34 @@ _Tema do jogo:_ Livre
 >
 > Que País é esse 
 >[https://cavalcantebya.github.io/quepaiseesse/](QuePaiEssse Game).
-
-
-
+      
+   
+   
 
 # [](ARTES)ARTES
 
 ![](qp3.png) 
+* Algumas artes do "Que pais é esse"
 
 ![](artfk1.png)
+* Algumas Artes do "FonoKids"
 
 ![](mp1.png)
+* Mapa de influencia, trabalho proposto pelo Professor Marcelo com intuito de expor as nossas "influencias".
+   
+   
+# [](APRESENTAÇÕES)APRESENTAÇÕES
+   
+   * Epo games(2016), UFRN-IMD, evento voltado ao estudo do desenvolvimento e do uso de jogos digitais e mídia digital interativa.
+   
+   * III Encontro de Informática do Agreste Potiguar(2018), IFRN Nova Cruz, Apresentação do prototipo de jogo do FonoKids.
+   
+   
+   
+   
+
+   
+
 
 
 
