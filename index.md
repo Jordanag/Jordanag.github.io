@@ -131,7 +131,7 @@ _Tema do jogo:_ Livre
    
    
          
-      **Para sua meditação**
+   **Para sua meditação:**
    "Seja forte e corajoso!"
    Josué 1:9
    
