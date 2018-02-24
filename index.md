@@ -121,7 +121,7 @@ _Tema do jogo:_ Livre
    
      
     
-   # [](Agradecimentos)Agradecimentos
+ # [](Agradecimentos)Agradecimentos
    
    * Ao Professor Marcelo Barros pelas suas orientações, ensinamentos e brincadeiras durante esses anos que tem passado conosco.
    
